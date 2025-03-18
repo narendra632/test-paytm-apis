@@ -1,6 +1,5 @@
 const express = require("express");
 const cors = require("cors");
-const JWT_SECRET = require("./config")
 const PORT = 3000
 
 
